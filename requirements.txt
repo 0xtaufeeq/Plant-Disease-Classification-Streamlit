@@ -1,0 +1,12 @@
+torch
+torchvision
+streamlit
+pillow
+albumentations
+numpy
+addict
+kaggle
+seaborn
+matplotlib
+tqdm
+logging
